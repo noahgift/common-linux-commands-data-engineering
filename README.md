@@ -3,11 +3,11 @@ A few examples of common Linux Commands for Data Engineering
 
 ## Useful Commands
 
-## Navigate
+## Navigating the Shell
 
-## Explore
+## Exploring the Shell
 
-## Files and Directories
+## Orchestrating Files and Directories
 
 ## Learning from Dockerfiles
 
