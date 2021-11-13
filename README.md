@@ -1,6 +1,8 @@
 # common-linux-commands-data-engineering
 A few examples of common Linux Commands for Data Engineering
 
+![Linux Command](https://user-images.githubusercontent.com/58792/141658688-651628e7-4e39-416c-9693-cb1eee0cb371.png)
+
 ## Useful Commands
 
 Time and Date:
@@ -23,8 +25,9 @@ Exploring:
 
 * `pwd`
 * `ls -lah`
-* `cd /tmp` `cd ~`
-* `which python3
+* `cd /tmp`
+*  `cd ~`
+* `which python3`
 
 Viewing files:
 
